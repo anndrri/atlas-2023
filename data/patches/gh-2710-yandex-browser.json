@@ -1,0 +1,62 @@
+{
+	"id": -1,
+	"name": "Yandex Browser",
+	"description": "Yandex Browser is a freeware web browser developed by the Russian technology corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project. Build by bratishkinoff community",
+	"links": {
+		"website": [
+			"https://browser.yandex.ru/"
+		],
+		"subreddit": [
+			"place_brff"
+		],
+		"discord": [
+			"89squad"
+		]
+	},
+	"path": {
+		"214": [
+			[
+				-1421,
+				976
+			],
+			[
+				-1433,
+				976
+			],
+			[
+				-1436,
+				981
+			],
+			[
+				-1436,
+				989
+			],
+			[
+				-1431,
+				994
+			],
+			[
+				-1423,
+				994
+			],
+			[
+				-1418,
+				989
+			],
+			[
+				-1418,
+				980
+			],
+			[
+				-1421,
+				976
+			]
+		]
+	},
+	"center": {
+		"214": [
+			-1427,
+			985
+		]
+	}
+}
